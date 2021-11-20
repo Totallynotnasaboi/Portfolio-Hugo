@@ -60,7 +60,7 @@ theme = 'hugo-theme-shell'
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["C/C++", "/languages/C++.md"],
-    ["C#", "/languages/C#.md"],
+    ["C#", "/languages/Csharp.md"],
     ["Python", "/languages/Python.md"],
     ["JavaScript", "/languages/Javascript.md"],
     ["Linux", "/languages/Linux.md"],
